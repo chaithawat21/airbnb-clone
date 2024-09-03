@@ -1,12 +1,12 @@
 # Airbnb Clone  
 
-![Home](./screenshots/Home.png)
-![Detail](./screenshots/Detail.png)
-![Search](./screenshots/search.png)
-![Wishlist](./screenshots/Wishlist.png)
-![Profile](./screenshots/Profile.png)  
+![Home](./Screenshots/Home.png)
+![Detail](./Screenshots/Detail.png)
+![Search](./Screenshots/search.png)
+![Wishlist](./Screenshots/Wishlist.png)
+![Profile](./Screenshots/Profile.png)  
 
-![demo](./screenshots/Demo.gif)  
+![demo](./Screenshots/Demo.gif)  
 
 ## Overview  
 
